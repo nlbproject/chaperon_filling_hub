@@ -1,0 +1,6 @@
+[submodule "modules/chaperon_forest_hub"]
+	path = modules/chaperon_forest_hub
+	url = https://github.com/nlbproject/chaperon_forest_hub.git
+[submodule "modules/chaperon_tutorial"]
+	path = modules/chaperon_tutorial
+	url = https://github.com/nlbproject/chaperon_tutorial.git
